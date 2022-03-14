@@ -1,0 +1,1 @@
+basic.showString("HOLA SOC LA VANIA I VAIG A LA CLASSE DE 3R C")
